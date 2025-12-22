@@ -6,7 +6,6 @@ import numpy as np
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 from plotly.subplots import make_subplots
-from keplergl import KeplerGl
 from datetime import datetime as dt
 from PIL import Image
 from numerize.numerize import numerize
